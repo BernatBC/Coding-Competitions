@@ -1,2 +1,2 @@
 # Other
--This repository contains code made during competitions and hackathons
+- This repository contains code made during competitions and hackathons
