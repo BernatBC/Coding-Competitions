@@ -1,2 +1,2 @@
 # Other
-This repository contains projects made during free time
+-This repository contains code made during competitions and hackathons
